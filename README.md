@@ -15,4 +15,4 @@ se libera, bien por matrícula o por posición) o automáticamente (uno al azar)
 
 #### Enlace a la documentación:
 
-> [JavaDoc](www.dekkvar.github.io/Ejercicios_Semana_10/javadoc/package-summary.html)
+> [JavaDoc](https://dekkvar.github.io/Ejercicios_Semana_10/javadoc/package-summary.html)
