@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Input {
     /**
      * Introducir un número por consola.
-     * @return el número introducido.
+     * @return El número introducido.
      */
     public static int num() {
         Scanner inputNum = new Scanner(System.in);
@@ -15,7 +15,7 @@ public class Input {
 
     /**
      * Introducir una cadena por consola.
-     * @return la cadena introducida.
+     * @return La cadena introducida.
      */
     public static String str() {
         Scanner inputStr = new Scanner(System.in);
