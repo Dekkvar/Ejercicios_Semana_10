@@ -1,3 +1,6 @@
+/**
+ * Agrupación de los distintos métodos de randomizado.
+ */
 public class Randomizer {
     /**
      * Seleccionar un tipo de vehículo aleatoriamente.

@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/**
+ * Agrupación de distintos métodos de inserción por consola.
+ */
 public class Input {
     /**
      * Introducir un número por consola.

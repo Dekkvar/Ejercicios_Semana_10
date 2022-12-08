@@ -1,9 +1,12 @@
+/**
+ * Clase para eliminar vehículos según su posición en el parking.
+ */
 public class RemoveByPark {
     /**
      * Comprueba que vehículo está aparcado en una plaza.
-     * @param parking en el que están aparcados los vehículos.
-     * @param num plaza que se desea consultar.
-     * @return mensaje con el resultado de la consulta.
+     * @param parking Array en el que se almacenan los vehículos.
+     * @param num Lugar del array que se desea consultar.
+     * @return Mensaje con el resultado de la consulta.
      */
     public static String park(Vehicle[] parking, int num) {
         String msg = "";
